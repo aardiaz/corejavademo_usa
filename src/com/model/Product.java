@@ -2,7 +2,7 @@ package com.model;
 
 public class Product {
 	
-	private int id;
+	private int id;    //PK, AI
 	private String name;
 	private int price;
 	private String company;

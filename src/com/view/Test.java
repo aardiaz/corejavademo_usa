@@ -11,11 +11,11 @@ public class Test {
 
 	
 	 public static void main(String[] args) {
-		add();
-		showAll();
+		//add();
+		//showAll();
 		delete();
 		//show products after deleted
-		showAll();
+		//showAll();
 	}
 	 
 	 //add product
